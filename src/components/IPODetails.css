@@ -1,0 +1,35 @@
+.ipo-details-page {
+  padding: 20px;
+  font-family: 'Sora', sans-serif;
+}
+
+.ipo-details-header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.company-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.company-name {
+  font-weight: bold;
+}
+
+.apply-button {
+  background-color: #002884;
+  color: white;
+}
+
+.ipo-details-info {
+  margin-top: 20px;
+}
+
+.ipo-timeline {
+  margin-top: 20px;
+}
+
+.about-company {
+  margin-top: 20px;
+}
